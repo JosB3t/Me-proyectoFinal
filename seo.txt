@@ -1,0 +1,3 @@
+Agregue Keywords y Description en cada seccion
+Modifique el titulo para cada seccion
+Complete los textos alternativos de las imagenes
